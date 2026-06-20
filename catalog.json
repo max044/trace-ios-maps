@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "corse",
+      "name": "Corse",
+      "bbox": [8.5, 41.3, 9.6, 43.1],
+      "map": "https://github.com/max044/trace-ios-maps/releases/download/packs-v1/corse.mbtiles",
+      "sizeMB": 27
+    }
+  ]
+}
