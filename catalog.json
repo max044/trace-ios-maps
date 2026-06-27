@@ -14,6 +14,13 @@
       "bbox": [5.5, 42.9, 7.05, 43.9],
       "map": "https://github.com/max044/trace-ios-maps/releases/download/packs-v1/var.mbtiles",
       "sizeMB": 48
+    },
+    {
+      "id": "bouches-du-rhone",
+      "name": "Bouches-du-Rhône",
+      "bbox": [4.2, 43.1, 5.85, 43.95],
+      "map": "https://github.com/max044/trace-ios-maps/releases/download/packs-v1/bouches-du-rhone.mbtiles",
+      "sizeMB": 59
     }
   ]
 }
